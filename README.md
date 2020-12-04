@@ -10,5 +10,4 @@
 [![MIT-CS6.828](https://github-readme-stats.vercel.app/api/pin/?username=fattigerwang&repo=wos&theme=flag-india)](https://github.com/kirov-opensource/wos)
 [![NAutowired](https://github-readme-stats.vercel.app/api/pin/?username=kirov-opensource&repo=facelock&theme=flag-india)](https://github.com/kirov-opensource/facelock)
 [![NAutowired](https://github-readme-stats.vercel.app/api/pin/?username=kirov-opensource&repo=HTML2PDF&theme=flag-india)](https://github.com/kirov-opensource/HTML2PDF)
-[![NAutowired](https://github-readme-stats.vercel.app/api/pin/?username=kirov-opensource&repo=kirov-webapi-template&theme=flag-india)](https://github.com/kirov-opensource/kirov-webapi-template)
 
