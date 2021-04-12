@@ -5,9 +5,10 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fattigerwang&layout=compact&theme=flag-india)](https://github.com/FatTigerWang)
 
+[![NAutowired](https://github-readme-stats.vercel.app/api/pin/?username=dotnet&repo=AspNetCore.Docs&theme=flag-india)](https://github.com/dotnet/AspNetCore.Docs)
 [![NAutowired](https://github-readme-stats.vercel.app/api/pin/?username=kirov-opensource&repo=NAutowired&theme=flag-india)](https://github.com/kirov-opensource/NAutowired)
 [![MIT-CS6.828](https://github-readme-stats.vercel.app/api/pin/?username=fattigerwang&repo=MIT-CS6.828&theme=flag-india)](https://github.com/fattigerwang/MIT-CS6.828)
-[![MIT-CS6.828](https://github-readme-stats.vercel.app/api/pin/?username=fattigerwang&repo=wos&theme=flag-india)](https://github.com/fattigerwang/wos)
-[![NAutowired](https://github-readme-stats.vercel.app/api/pin/?username=kirov-opensource&repo=facelock&theme=flag-india)](https://github.com/kirov-opensource/facelock)
-[![NAutowired](https://github-readme-stats.vercel.app/api/pin/?username=kirov-opensource&repo=HTML2PDF&theme=flag-india)](https://github.com/kirov-opensource/HTML2PDF)
+[![wos](https://github-readme-stats.vercel.app/api/pin/?username=fattigerwang&repo=wos&theme=flag-india)](https://github.com/fattigerwang/wos)
+[![facelock](https://github-readme-stats.vercel.app/api/pin/?username=kirov-opensource&repo=facelock&theme=flag-india)](https://github.com/kirov-opensource/facelock)
+[![HTML2PDF](https://github-readme-stats.vercel.app/api/pin/?username=kirov-opensource&repo=HTML2PDF&theme=flag-india)](https://github.com/kirov-opensource/HTML2PDF)
 
