@@ -5,9 +5,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fattigerwang&layout=compact&theme=flag-india)](https://github.com/FatTigerWang)
 
-[![dotnet-runtime](https://github-readme-stats.vercel.app/api/pin/?username=dotnet&repo=runtime&theme=flag-india)](https://github.com/dotnet/runtime)
+<!-- [![dotnet-runtime](https://github-readme-stats.vercel.app/api/pin/?username=dotnet&repo=runtime&theme=flag-india)](https://github.com/dotnet/runtime)
 [![AspNetCore.Docs](https://github-readme-stats.vercel.app/api/pin/?username=dotnet&repo=AspNetCore.Docs&theme=flag-india)](https://github.com/dotnet/AspNetCore.Docs)
 [![NAutowired](https://github-readme-stats.vercel.app/api/pin/?username=kirov-opensource&repo=NAutowired&theme=flag-india)](https://github.com/kirov-opensource/NAutowired)
 [![MIT-CS6.828](https://github-readme-stats.vercel.app/api/pin/?username=fattigerwang&repo=MIT-CS6.828&theme=flag-india)](https://github.com/fattigerwang/MIT-CS6.828)
 [![wos](https://github-readme-stats.vercel.app/api/pin/?username=fattigerwang&repo=wos&theme=flag-india)](https://github.com/fattigerwang/wos)
-[![facelock](https://github-readme-stats.vercel.app/api/pin/?username=kirov-opensource&repo=facelock&theme=flag-india)](https://github.com/kirov-opensource/facelock)
+[![facelock](https://github-readme-stats.vercel.app/api/pin/?username=kirov-opensource&repo=facelock&theme=flag-india)](https://github.com/kirov-opensource/facelock) -->
